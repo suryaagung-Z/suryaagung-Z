@@ -43,7 +43,7 @@
   <code><img title="React" height="25" src="images/react.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
   <code><img title="Java" height="25" src="images/java.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
@@ -55,7 +55,7 @@
   <code><img title="Mongo DB" height="25" src="images/mongodb.svg"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
   <code><img title="Spring Boot" height="25" src="images/springboot.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/springboot.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
   <code><img title="Vue.js" height="25" src="images/vuejs.svg"></code>
   <code><img title="WordPress" height="25" src="images/wordpress.svg"></code>
 </p>
