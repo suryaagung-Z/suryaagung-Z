@@ -1,15 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=suryaagung-Z.suryaagung-Z">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Surya+Agung;Nice+to+meet+you!&center=true&size=30">
-  </a>
 </h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=ꦲꦭꦺꦴꦱꦼꦩꦸꦮ👋;ꦆꦤꦶꦱꦸꦂꦪꦄꦒꦸꦁ;ꦱꦼꦤꦁꦧꦼꦂꦠꦼꦩꦸꦣꦼꦔꦤ꧀ꦄꦤ꧀ꦝ!&center=true&size=20">
-  </a>
 </h1>
 
 <h5 align="center">
