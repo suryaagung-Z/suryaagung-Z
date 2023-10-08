@@ -14,21 +14,14 @@
 <br>
 <p align="center">
   Hi, I'm Surya Agung, a Software Engineering Student at IPB University, Indonesia
-  <br>
-  <br>
-  📚 Currently pursuing my Bachelor's degree in Software Engineering
+  <br><br>
+  📚 Pursuing a Bachelor's degree in Software Engineering.
   <br>
   🎓 Graduated from SMK Informatika Pesat with a focus on Software Engineering
   <br>
-  💻 I'm passionate about coding and eager to learn all things related to it
+  💻 Passionate about coding and eager to learn more.
   <br>
-  🌟 My goal is to become a proficient programmer, specializing in both front-end and back-end techniques. I have a strong commitment to maintaining code quality and structure.
-  <br>
-  👥 I thrive in collaborative team environments, believing that 'two heads are better than one.'
-  <br>
-  💬 Feel free to reach out to me with any questions or discussions. You can find me on <a href="mailto:suryaagung118@gmail.com">suryaagung118@gmail.com</a>.
-  <br>
-  📫 You can contact me via email at <a href="mailto:suryaagung118@gmail.com">suryaagung118@gmail.com</a>
+  👥 Thrive in collaborative team environments. Feel free to reach out at <a href="mailto:suryaagung118@gmail.com">suryaagung118@gmail.com</a> for questions or discussions.
 </p>
 
 <hr>
