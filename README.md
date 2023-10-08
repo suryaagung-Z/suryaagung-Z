@@ -6,6 +6,12 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=ꦲꦭꦺꦴꦱꦼꦩꦸꦮ👋;ꦆꦤꦶꦱꦸꦂꦪꦄꦒꦸꦁ;ꦱꦼꦤꦁꦧꦼꦂꦠꦼꦩꦸꦣꦼꦔꦤ꧀ꦄꦤ꧀ꦝ!&center=true&size=20">
+  </a>
+</h1>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sryaagung" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://instagram.com/sryaagung?igshid=OGQ5ZDc2ODk2ZA==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
