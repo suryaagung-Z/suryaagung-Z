@@ -21,7 +21,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
