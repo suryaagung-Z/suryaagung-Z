@@ -9,11 +9,11 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Surya Agung, a Software Engineering Student at IPB University, Indonesia
+  Hi, I'm Surya Agung, a Software Engineering Student at <strong>IPB University</strong>, Indonesia
   <br><br>
   📚 Pursuing a Bachelor's degree in Software Engineering.
   <br>
-  🎓 Graduated from SMK Informatika Pesat with a focus on Software Engineering
+  🎓 Graduated from <strong>SMK Informatika Pesat</strong> with a focus on Software Engineering
   <br>
   💻 Passionate about coding and eager to learn more.
   <br>
@@ -21,45 +21,57 @@
 </p>
 
 <hr>
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<br>
-<p align="center">
+
+<p><strong>Languages:</strong></p>
+<p>
   <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
+</p>
+
+<br>
+
+<p><strong>Backend Development:</strong></p>
+<p>
+  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Express.js" height="25" src="images/expressjs.svg"></code>
+  <code><img title="Hapi" height="25" src="images/hapi.svg"></code>
+  <code><img title="Spring Boot" height="25" src="images/springboot.svg"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.svg"></code>
+  <code><img title="CodeIgniter" height="25" src="images/codeigniter.svg"></code>
+</p>
+
+<br>
+
+<p><strong>Front-End Development:</strong></p>
+<p>
   <code><img title="HTML5" height="25" src="images/html.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
-  <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
-  <code><img title="Java" height="25" src="images/java.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Express.js" height="25" src="images/expressjs.svg"></code>
-  <code><img title="Mongo DB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
-  <code><img title="Spring Boot" height="25" src="images/springboot.svg"></code>
   <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
+  <code><img title="Bootstrap" height="25" src="images/bootstrap.svg"></code>
+  <code><img title="React" height="25" src="images/react.svg"></code>
+  <code><img title="Next.js" height="25" src="images/nextjs.svg"></code>
   <code><img title="Vue.js" height="25" src="images/vuejs.svg"></code>
-  <code><img title="WordPress" height="25" src="images/wordpress.svg"></code>
+  <code><img title="jQuery" height="25" src="images/jquery.svg"></code>
 </p>
 
-<!--
-**suryaagung-Z/suryaagung-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p><strong>Databases:</strong></p>
+<p>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p><strong>Tools & Platforms:</strong></p>
+<p>
+  <code><img title="Git" height="25" src="images/git.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
+  <code><img title="NPM" height="25" src="images/npm.svg"></code>
+</p>
