@@ -22,18 +22,19 @@
 
 <hr>
 
-<p><strong>Languages:</strong></p>
-<p>
+<p align="center"><strong>Languages</strong></p>
+<p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="R" height="25" src="images/r-lang.svg"></code>
 </p>
 
 <br>
 
-<p><strong>Backend Development:</strong></p>
-<p>
+<p align="center"><strong>Backend Development</strong></p>
+<p align="center">
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
   <code><img title="Express.js" height="25" src="images/expressjs.svg"></code>
   <code><img title="Hapi" height="25" src="images/hapi.svg"></code>
@@ -44,8 +45,8 @@
 
 <br>
 
-<p><strong>Front-End Development:</strong></p>
-<p>
+<p align="center"><strong>Front-End Development</strong></p>
+<p align="center">
   <code><img title="HTML5" height="25" src="images/html.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
@@ -59,8 +60,8 @@
 
 <br>
 
-<p><strong>Databases:</strong></p>
-<p>
+<p align="center"><strong>Databases:</strong></p>
+<p align="center">
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
@@ -68,8 +69,8 @@
 
 <br>
 
-<p><strong>Tools & Platforms:</strong></p>
-<p>
+<p align="center"><strong>Tools & Platforms</strong></p>
+<p align="center">
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
